@@ -6,3 +6,8 @@ To Fix : <br>
 <br>
 To Add : <br>
 1.Parallax Effect on UICollectionViewCells
+
+<br>
+Preview : 
+<br>
+![](http://www.sahilchaddha.com/Flickroso.gif)
