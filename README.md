@@ -7,4 +7,7 @@ To Fix : <br>
 To Add : <br>
 1.Parallax Effect on UICollectionViewCells
 
-
+<br>
+Preview : 
+<br>
+Check out at http://www.sahilchaddha.com/Flickroso.mov
