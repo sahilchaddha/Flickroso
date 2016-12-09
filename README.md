@@ -10,4 +10,4 @@ To Add : <br>
 <br>
 Preview : 
 <br>
-Check out at http://www.sahilchaddha.com/Flickroso.mov
+Check out at http://sahilchaddha.com/Flickroso.mov
