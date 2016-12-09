@@ -37,7 +37,7 @@
         NSError *jsonError = nil;
         NSDictionary *results = (NSDictionary *)[NSJSONSerialization JSONObjectWithData:data options:NSJSONReadingAllowFragments error:&jsonError];
         
-        if(error || jsonError || results == nil)
+        if(data==nil || error || jsonError || results == nil)
         {
             failureBlock(error);
         }
