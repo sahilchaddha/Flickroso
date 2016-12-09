@@ -89,7 +89,7 @@
 
 - (void)updateLabels
 {
-    if(self.selectedIndex > 0 && self.selectedIndex < self.photosArray.count)
+    if(self.selectedIndex >= 0 && self.selectedIndex < self.photosArray.count)
     {
         NSDate *clickedDate = [[self.photosArray objectAtIndex:self.selectedIndex] clickedDate];
         NSDateFormatter *dateFormat = [[NSDateFormatter alloc] init];
