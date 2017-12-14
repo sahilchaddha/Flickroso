@@ -11,4 +11,4 @@ To Add : <br>
 <br>
 Preview : 
 <br>
-Check out at http://sahilchaddha.com/Flickroso.mov
+Check out at http://sahilchaddha.com/public/Flickroso.mov
